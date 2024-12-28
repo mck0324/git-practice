@@ -4,3 +4,4 @@ if (same == "333333") {
 } else {
     console.log("false");
 }
+let different: Number = 123123213312;
