@@ -5,5 +5,5 @@ let as: String = "StringTest";
 try {
     
 } catch (error) {
-    
+    console.error("Erorr",error);
 }
